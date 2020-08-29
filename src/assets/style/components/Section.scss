@@ -1,0 +1,37 @@
+.section p {
+    margin: 20px 20px 20px 20px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section__article {
+    font-size: 20px;
+    height: 740px;
+    width: 540px;
+    border-radius: 30px;
+    background: rgb(182, 182, 194);
+}
+
+.section__article--header {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.section__article--header h1 {
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10;
+    margin-bottom: 1;
+}
+
+.section__article--header h2 {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10;
+    margin-bottom: 1;
+}
+
+.section__article--image {
+    height: 400px;
+}
