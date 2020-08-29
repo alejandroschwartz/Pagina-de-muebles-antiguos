@@ -1,0 +1,32 @@
+.navegator__uniqueList {
+    margin: 0px;
+    padding: 0px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    background: #f5a8a8;
+}
+
+.navegator__uniqueList--boton {
+    margin-top: 30px;
+}
+
+.navegator__uniqueList a {
+    padding: 10px 30px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration-line: none;
+}
+
+.navegator__uniqueList a:hover {
+    border-radius: 10px;
+    padding: 10px 30px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background: rgb(221, 161, 161);
+    text-decoration-line: none;
+}
